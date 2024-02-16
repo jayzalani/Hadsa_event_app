@@ -23,7 +23,7 @@
     "query-string": "^8.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "svix": "^1.16.0",
+    "svix": "^1.18.0",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "uploadthing": "^6.3.1"
