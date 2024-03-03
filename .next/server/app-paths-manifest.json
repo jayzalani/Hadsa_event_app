@@ -1,3 +1,5 @@
 {
-  "/(root)/page": "app/(root)/page.js"
+  "/not-found": "app/not-found.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/events/create/page": "app/(root)/events/create/page.js"
 }
