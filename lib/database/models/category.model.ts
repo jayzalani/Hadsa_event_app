@@ -7,5 +7,5 @@ const CategorySchema = new Schema({
     name:{type:String, required:true, unique:true},
 })
 
-const Category = models.Category || model('Ctagory', CategorySchema);//to turn the this in model
+const Category = models.Category || model('Category', CategorySchema);//to turn the this in model
 export default Category;

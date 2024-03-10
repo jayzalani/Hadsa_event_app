@@ -1,5 +1,124 @@
 {
-  "node": {},
+  "node": {
+    "3c4806cc57e52ffa5c5e0842757f6a6a02e16657": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "5869ba05218d5298e942f19757b377725a453c88": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "73b8dda4672a4d4ccc39d5f68f5026d36cd61005": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "800520e2a0fd8e39bf975e0e4b11f5985ca651ad": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "9d311425e57d4a13d32a881172b7e3686c533dbe": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "d5dcfd5bda8fc36e34ad8f3949055a581824de03": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "d944fad9bb531cbaeabe1390c6af1dfc1ac9231e": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22createEvent%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "4e4dad259b92d032b9294402aafbf4e7aa901648": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Corder.actions.tsx%22%2C%5B%22getOrdersByEvent%22%2C%22createOrder%22%2C%22checkoutOrder%22%2C%22getOrdersByUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "action-browser"
+      }
+    },
+    "9c1fdb9f6ed3e9534597c497a0c772c587200043": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Corder.actions.tsx%22%2C%5B%22getOrdersByEvent%22%2C%22createOrder%22%2C%22checkoutOrder%22%2C%22getOrdersByUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "action-browser"
+      }
+    },
+    "b940f93dc66e3b23b6ddc98b0d7e0e927b6b9a9c": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Corder.actions.tsx%22%2C%5B%22getOrdersByEvent%22%2C%22createOrder%22%2C%22checkoutOrder%22%2C%22getOrdersByUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "action-browser"
+      }
+    },
+    "e9c2ce1c8c47a0941b6067df5b268fd68ab6f468": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Corder.actions.tsx%22%2C%5B%22getOrdersByEvent%22%2C%22createOrder%22%2C%22checkoutOrder%22%2C%22getOrdersByUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "action-browser"
+      }
+    },
+    "490ea471c9af64864dbfde3142f67d5942d0a3b7": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Ccategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      }
+    },
+    "f721cd7cd5d312c4bae69eb8f8982dc78d41ad42": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Ckanik%5C%5COneDrive%5C%5CDesktop%5C%5Cmernproject%5C%5Clib%5C%5Cactions%5C%5Ccategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "u3/RgpnlIDyt+ObRDD+AQbH7TKRaU1VBmJg1WnXF5rU="
+  "encryptionKey": "ADcYN+uamnYI+lmm7oqEIHq0dpD1nCeuzWCJh7YFP/Q="
 }

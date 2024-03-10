@@ -16,10 +16,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(root)/layout.js"
     ],
-    "/(root)/events/create/page": [
+    "/(root)/events/[id]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(root)/events/create/page.js"
+      "static/chunks/app/(root)/events/[id]/page.js"
     ]
   }
 }
