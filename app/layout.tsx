@@ -12,7 +12,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Hadsa",
   description: "Hadsa is the flatfrom for event management ",
-  icons: { icon:'/assests/image/logo.svg' }
+  icons: { icon:'/assests/image/logo-black.svg' }
 };
 
 export default function RootLayout({
